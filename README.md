@@ -1,5 +1,5 @@
 ### Hi there 👋
-⚡ Fun fact: you can make comments like me here via readme.md in <yourusername> repo.
+⚡ Fun fact: you can make comments like me here via readme.md in "your username" repo.
 <!--
 **konradpieczynski/konradpieczynski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
